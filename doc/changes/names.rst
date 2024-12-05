@@ -6,5 +6,6 @@
 .. _Albert Ying: https://scholar.google.com/citations?user=JS7AdkcAAAAJ&hl=zh-CN
 .. _Alec Eames: https://www.linkedin.com/in/alec-eames-589a3917a/
 .. _Mehrnoosh Emamifar: https://www.linkedin.com/in/mehrnoosh-emamifar/
+.. _Robin Grolaux: https://orcid.org/0000-0001-5129-7308
 
 .. _AI4Life Institute: https://www.ai4lifeinstitute.com/
