@@ -28,7 +28,7 @@ Other contributors
 * `Alec Eames`_ / `Harvard Universiy <https://www.linkedin.com/in/alec-eames-589a3917a/>`_
 * `Dayoon Kwon`_ /  `University of California <https://scholar.google.com/citations?user=5L9djqsAAAAJ&hl=en>`_
 * `Mehrnoosh Emamifar`_/ `Northeastern university <https://www.linkedin.com/in/mehrnoosh-emamifar/>`_
-
+* `Robin Grolaux`_ / `Monash University <https://orcid.org/0000-0001-5129-7308>`_
 
 Partner Organizations
 .....................
